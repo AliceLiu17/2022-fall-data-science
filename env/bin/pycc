@@ -1,0 +1,3 @@
+#!/Users/alice.liu/Desktop/CTP/2022-fall-data-science/env/bin/python3
+from numba.pycc import main
+main()
